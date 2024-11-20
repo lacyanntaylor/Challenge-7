@@ -1,10 +1,10 @@
 
-# bare minimum
+# README generator
 
-![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## Description
-to as im told
+an application to generate README files
 
 ## Table of Contents
 - [Installation](#installation)
@@ -15,18 +15,18 @@ to as im told
 - [Questions](#questions)
 
 ## Installation
-knowledge
+inquirer
 
 ## Usage
-to pass
+projects
 
 undefined
 
 ## Contributors
-chatgpt
+Lacy and friends
 
 ## Tests
-the passing kind
+important ones
 
 ## Questions
 For questions, you can reach out at:
@@ -37,12 +37,12 @@ For questions, you can reach out at:
 
 | Feature          | Description             
 |------------------|-------------------------
-| Title            | bare minimum          
-| Description      | to as im told    
-| Installation     | knowledge  
-| Usage            | to pass          
-| Contributors     | chatgpt   
-| Tests            | the passing kind          
+| Title            | README generator          
+| Description      | an application to generate README files    
+| Installation     | inquirer  
+| Usage            | projects          
+| Contributors     | Lacy and friends   
+| Tests            | important ones          
 | GitHub           | lacyanntaylor         
 | Email            | lacy.ann.taylor@gmail.com          
   
